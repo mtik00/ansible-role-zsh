@@ -1,5 +1,7 @@
 ---
 
+- name: git
+  src: https://github.com/mtik00/ansible-role-git.git
 - name: dotfiles
   src: https://github.com/mtik00/ansible-role-dotfiles.git
 - name: home_folders
