@@ -1,1 +1,6 @@
 ---
+apt_cache_valid_time: 300
+env_d_mode: '0770'
+env_files_path: "{{ ansible_user_dir }}/.env-files.d"
+github_username: test
+git_name: Jane Doe
