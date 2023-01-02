@@ -40,7 +40,7 @@
   ansible.builtin.git:
     repo: https://github.com/zsh-users/zsh-autosuggestions
     version: v0.7.0
-    dest: "{{ ansible_user_dir }}/.oh-my-zsh/custom/puginz/zsh-autosuggestions"
+    dest: "{{ ansible_user_dir }}/.oh-my-zsh/custom/plugins/zsh-autosuggestions"
 
 - name: Make sure env-files.d is last
   ansible.builtin.blockinfile:
