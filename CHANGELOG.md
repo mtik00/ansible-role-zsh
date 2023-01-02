@@ -1,3 +1,14 @@
+## 0.2.1 (2023-01-02)
+
+### Fix
+
+- github action molecule
+
+### Refactor
+
+- change dependency name
+- change dependency name
+
 ## 0.2.0 (2022-08-07)
 
 ### Fix
